@@ -1,0 +1,90 @@
+body, nav.navigation.post-navigation a, .nav-subtitle{font-family:Montserrat;font-size:17px;font-weight:300;letter-spacing:0px;line-height:1.6;}.news-item h2.entry-title a{font-size:26px;font-weight:300;letter-spacing:0px;line-height:1.6;}.news-item .post-excerpt{font-size:16px;font-weight:300;letter-spacing:0px;line-height:1.6;}.top-bar-section{font-size:15px;letter-spacing:0px;text-transform:none;}.site-branding-text h1.site-title a:hover, .site-branding-text .site-title a:hover, .site-branding-text h1.site-title, .site-branding-text .site-title, .site-branding-text h1.site-title a, .site-branding-text .site-title a{font-family:Montserrat;font-size:28px;font-weight:800;letter-spacing:0px;line-height:32px;text-transform:uppercase;color:#000000;}p.site-description{font-size:15px;letter-spacing:0px;line-height:22px;text-transform:none;}#site-navigation, #site-navigation .navbar-nav > li > a, #site-navigation .dropdown-menu > li > a{font-size:13px;letter-spacing:2px;text-transform:uppercase;}#sidebar .widget-title h3{font-size:15px;font-weight:400;letter-spacing:0px;line-height:1.6;}.widget{font-size:15px;font-weight:400;letter-spacing:0px;line-height:1.6;}#content-footer-section .widget{font-size:15px;font-weight:400;letter-spacing:0px;text-transform:none;}#content-footer-section .widget-title h3{font-size:15px;font-weight:400;letter-spacing:0px;line-height:1.6;}.heading-row .site-heading{padding-bottom:15px;padding-top:15px;}.site-heading.navbar-brand{height:80px;}.site-branding-logo img{max-height:80px;}.heading-menu .site-branding-logo img{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.heading-menu .site-branding-text{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.shrink .site-heading.navbar-brand{height:50px;}.shrink .site-branding-logo img{max-height:50px;}.shrink .heading-menu .site-branding-logo img{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.shrink .heading-menu .site-branding-text{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.navbar-nav .menu-button a.btn-default{-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}.futurio-content{padding-left:10%;padding-right:10%;}.full-head-img{padding-bottom:51px;padding-top:51px;}.full-head-img:after{background-color:rgba(41,152,249,0.88);}.news-thumb.col-md-6 img{-webkit-border-radius:46px;-moz-border-radius:46px;border-radius:46px;-webkit-box-shadow:0px 0px 11px 0px rgba(0,0,0,0.35);-moz-box-shadow:0px 0px 11px 0px rgba(0,0,0,0.35);box-shadow:0px 0px 11px 0px rgba(0,0,0,0.35);}@media (max-width: 992px){.heading-row .site-heading{padding-bottom:15px;padding-top:15px;}}@media (max-width: 768px){.heading-row .site-heading{padding-bottom:15px;padding-top:15px;}}@media (min-width: 992px){.widget.col-md-3{width:25%;}}@media (min-width: 768px){.navbar-nav > li > a, .menu-cart, .menu-account, .top-search-icon, .menu-button, .offcanvas-sidebar-toggle{padding-top:30px;padding-right:10px;padding-bottom:30px;padding-left:10px;}.shrink .navbar-nav > li > a, .shrink .top-search-icon, .shrink .menu-cart, .shrink .menu-account, .shrink .menu-button, .shrink .offcanvas-sidebar-toggle{padding-top:15px;padding-right:10px;padding-bottom:15px;padding-left:10px;}}/* cyrillic-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://traductorautonomo.com/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw0aXx-p7K4GLvztg.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://traductorautonomo.com/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw9aXx-p7K4GLvztg.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://traductorautonomo.com/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw2aXx-p7K4GLvztg.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://traductorautonomo.com/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXx-p7K4GLvztg.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://traductorautonomo.com/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aXx-p7K4GLs.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://traductorautonomo.com/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w0aXx-p7K4GLvztg.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://traductorautonomo.com/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w9aXx-p7K4GLvztg.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://traductorautonomo.com/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w2aXx-p7K4GLvztg.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://traductorautonomo.com/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXx-p7K4GLvztg.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://traductorautonomo.com/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aXx-p7K4GLs.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
