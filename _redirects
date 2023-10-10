@@ -1,0 +1,11 @@
+# Netlify default subdomain
+https://timoetjen.netlify.app/*            https://traductorautonomo.es/:splat    301!
+
+# Custom domains
+# Primary domain is traductorautonomo.es, and Netlify automatically redirects www.traductorautonomo.es to the primary domain
+https://traductorautonomo.com/*            https://traductorautonomo.es/:splat    301!
+https://www.traductorautonomo.com/*        https://traductorautonomo.es/:splat    301!
+https://traducteurindependant.com/*        https://traductorautonomo.es/:splat    301!
+https://www.traducteurindependant.com/*    https://traductorautonomo.es/:splat    301!
+https://traducteurindependant.fr/*         https://traductorautonomo.es/:splat    301!
+https://www.traducteurindependant.fr/*     https://traductorautonomo.es/:splat    301!
