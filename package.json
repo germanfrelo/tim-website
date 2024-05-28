@@ -1,0 +1,23 @@
+{
+	"name": "tim-website",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Source code for Tim Oetjen's website.",
+	"keywords": [
+		"website"
+	],
+	"homepage": "https://github.com/germanfrelo/tim-website#readme",
+	"bugs": {
+		"url": "https://github.com/germanfrelo/tim-website/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/germanfrelo/tim-website.git"
+	},
+	"license": "ISC",
+	"author": "Germán Freixinós López",
+	"type": "module",
+	"main": "",
+	"scripts": {
+	}
+}
