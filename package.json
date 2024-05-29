@@ -2,7 +2,7 @@
 	"name": "tim-website",
 	"version": "1.0.0",
 	"private": true,
-	"description": "Website of Tim Oetjen, freelance translator.",
+	"description": "Source code for Tim Oetjen's website.",
 	"keywords": [
 		"website"
 	],
@@ -18,6 +18,11 @@
 	"author": "Germán Freixinós López",
 	"type": "module",
 	"main": "",
-	"scripts": {},
-	"devDependencies": {}
+	"scripts": {
+		"format": "prettier --write .",
+		"format:check": "prettier --check ."
+	},
+	"devDependencies": {
+		"prettier": "3.2.5"
+	}
 }
