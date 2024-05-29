@@ -442,8 +442,7 @@ strong {
    ======================================== */
 
 .site-main {
-	padding-block-start: var(--s-800);
-	padding-block-end: var(--s-900);
+	padding-block: var(--s-800) var(--s-900);
 }
 
 /* Site footer
